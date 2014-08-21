@@ -1,5 +1,7 @@
-Just a simple dummy test page.
+Simple dummy test page.
 =========
 
-Just a simple dummy test page, with basic assets structure.
+###Just a simple dummy test page
+####With basic assets structure
+
 I hate to create a new one everytime I need it for testing.
