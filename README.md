@@ -1,4 +1,4 @@
-test_page
+Just a simple dummy test page.
 =========
 
 Just a simple dummy test page, with basic assets structure.
