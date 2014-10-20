@@ -3,3 +3,35 @@
 body {
   background: #f4f4f4;
 }
+
+.wrapper {
+  background: pink;
+  padding: 20px;
+}
+
+.title {
+  display: block;
+  background: red;
+  padding: 10px 0;
+  margin: 20px 0;
+}
+
+
+.form-area {
+  display: block;
+  background: green;
+  padding: 5px 0;
+  margin: 10px 0;
+}
+
+.minimize {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 5px;
+  background: yellow;
+}
+
+.legal-item {
+  display: none;
+}
