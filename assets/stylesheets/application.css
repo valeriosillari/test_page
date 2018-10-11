@@ -11,6 +11,13 @@ header {
   height: 50px;
 }
 
+.rest {
+  background: #333;
+  border: 2px solid orange;
+  height: 1000px;
+  box-sizing: border-box;
+}
+
 .video-container {
   background: red;
   border: 5px solid yellow;
